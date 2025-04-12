@@ -19,7 +19,7 @@ def earn_profit(myClass):
     This function simulates the dynamic model of firm investment.
     
     Input:
-        myClass : Model class with parameters, grids, cost and revenue functions, and policy functions.......
+        myClass : Model class with parameters, grids, cost and revenue functions, and policy functions..
         
     '''
 
